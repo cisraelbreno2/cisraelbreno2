@@ -1,7 +1,7 @@
 ### Oii! Eu sou o Israel B. Costa 👋
 
 - 🔨 Hoje trabalho como fullstack
-- 📚 Estudando Typescript + Angular
+- 📚 Estudando React
 - 💬 Contate-me no email: cisraelbreno@gmail.com
 
 <div align="center">
@@ -25,9 +25,8 @@
 </div>
 
  <div style="display: inline_block"><br>
-  <h3>Tecnologias que tenho estudado!<h3>
-  <img align="center" alt="Isra-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Isra-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <h3>Tecnologias que estudo!<h3>
+  <img align="center" height="40" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
 </div>
     
 <br/>
