@@ -1,6 +1,6 @@
 ### Oii! Eu sou o Israel B. Costa 👋
 
-- 🔨 Hoje trabalho como fullstack
+- 🔨 Hoje trabalho como back-end JAVA
 - 📚 Estudando React
 - 💬 Contate-me no email: cisraelbreno@gmail.com
 
